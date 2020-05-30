@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ezetap</string>
+    <string name="title">Transaction History</string>
+    <string name="amount">Amount</string>
+    <string name="cardType">CardType</string>
+    <string name="reference">Reference</string>
+    <string name="status">Status</string>
+    <string name="transaction">TxnDate</string>
+</resources>
